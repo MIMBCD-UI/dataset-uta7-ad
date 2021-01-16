@@ -71,7 +71,7 @@ At this point, the only way to install this repository is manual. Eventually, th
 Nonetheless, this kind of installation is as simple as cloning this repository. Virtually all Git and GitHub version control tools are capable of doing that. Through the console, we can use the command below, but other ways are also fine.
 
 ```bash
-git clone https://github.com/MIMBCD-UI/dataset-uta7-dicom.git
+git clone https://github.com/MIMBCD-UI/dataset-uta7-ad.git
 ```
 
 ## Roadmap
