@@ -124,6 +124,10 @@ The following list, represents the set of related repositories for the presented
 
 - [`dataset-uta7-time`](https://github.com/MIMBCD-UI/dataset-uta7-time)
 
+- [`dataset-uta9-ad`](https://github.com/MIMBCD-UI/dataset-uta9-ad)
+
+- [`dataset-uta10-ad`](https://github.com/MIMBCD-UI/dataset-uta10-ad)
+
 - [`prototype-multi-modality-assistant`](https://github.com/mida-project/prototype-multi-modality-assistant)
 
 - [`prototype-heatmap`](https://github.com/mida-project/prototype-heatmap)
